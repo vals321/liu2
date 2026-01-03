@@ -30,6 +30,6 @@
     </ol>
     <font color="brown"><h2>Video della ricetta</h2></font>
 <a href="https://www.youtube.com/watch?v=oKo4B57r83A">
-    <img src="https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2025/10/torta-al-cioccolato-soffice/Torta%20al%20cioccolato%20soffice-1.jpg" width="400"><br font-size: 12px>Clicca sulla foto per andare al video</a>
+    <img src="https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2025/10/torta-al-cioccolato-soffice/Torta%20al%20cioccolato%20soffice-1.jpg" width="400"></a>
 </head>
 </html>
